@@ -5,3 +5,7 @@ Specific versions to follow along a tutorial
 ```
 npm install --save gulp@3.9.0 gulp-connect@2.2.0 gulp-open@1.0.0
 ```
+
+```
+npm install --save browserify@11.0.1 reactify@1.1.1 vinyl-source-stream@1.1.0
+```
