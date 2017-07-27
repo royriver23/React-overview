@@ -17,3 +17,7 @@ npm install --save bootstrap@3.3.5 jquery@2.1.4 gulp-concat@2.6.0
 ```
 npm install --save gulp-eslint@0.15.0
 ```
+
+```
+npm install --save react@0.13.3 react-router@0.13.3 flux@2.0.3
+```
