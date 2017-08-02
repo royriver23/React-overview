@@ -22,3 +22,13 @@ It's easier to track error from JSX, since any syntax error would cause the app 
 **Fail fast, fail loudy** principle.
 
 Integrating interwined concerns aids debugging.
+
+**Virtual DOM**: instead of updating actual DOM. It compares the existing DOM state to what the new should look like and then determine the least expensive way to update the DOM.
+
+**shouldComponentUpdate**: we can declare it to specify when to not change the DOM, even if certain data changes.
+
+**PureRenderMixin** + **inmutability**
+
+**Synthetic events**: abstract away browser-specific event quirks and allow React to optimize the performance of attaching event handlers behind the scene.
+
+**React Native**: for implementing native apps without levering on DOM.
